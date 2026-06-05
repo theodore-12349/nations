@@ -1,2 +1,2 @@
-let nation = UnitedStates
-console.log("nation")
+let nation = "UnitedStates";
+console.log(nation);
